@@ -120,7 +120,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "6",
+    "ROLLNO": "1",
     "NAME": "MUKHTAR JAFRI",
     "FACULTY": "COMMERCE",
     "SUBJECT1": "English",
@@ -144,7 +144,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "7",
+    "ROLLNO": "2",
     "NAME": "SARWAR JAFRI",
     "FACULTY": "COMMERCE",
     "SUBJECT1": "English",
@@ -168,7 +168,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "8",
+    "ROLLNO": "3",
     "NAME": "MOHAMMED SHAFE",
     "FACULTY": "COMMERCE",
     "SUBJECT1": "English",
@@ -192,7 +192,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "9",
+    "ROLLNO": "4",
     "NAME": " SHAIKH SAIF",
     "FACULTY": "COMMERCE",
     "SUBJECT1": "English",
@@ -216,7 +216,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "10",
+    "ROLLNO": "5",
     "NAME": " SYED HARES",
     "FACULTY": "COMMERCE",
     "SUBJECT1": "English",
@@ -240,7 +240,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "11",
+    "ROLLNO": "1",
     "NAME": "HASNAIN YAR KHAN",
     "FACULTY": "ARTS",
     "SUBJECT1": "English",
@@ -264,7 +264,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "12",
+    "ROLLNO": "2",
     "NAME": " SHAIKH MOHAMMED SAAD",
     "FACULTY": "ARTS",
     "SUBJECT1": "English",
@@ -288,7 +288,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "13",
+    "ROLLNO": "3",
     "NAME": " SHAIKH KHALEEL",
     "FACULTY": "ARTS",
     "SUBJECT1": "English",
@@ -312,7 +312,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "14",
+    "ROLLNO": "4",
     "NAME": " CHOUDHARI IRSHAD",
     "FACULTY": "ARTS",
     "SUBJECT1": "English",
@@ -336,7 +336,7 @@
     "REMARK": "PASS"
     },
     {
-    "ROLLNO": "15",
+    "ROLLNO": "5",
     "NAME": "ZEESHAN AHEMAD",
     "FACULTY": "ARTS",
     "SUBJECT1": "English",
@@ -376,9 +376,9 @@
         "SUBJECT6": "Biology",
         "MARK6": "00",
         "SUBJECT7": "EVS",
-        "MARK7": "A",
+        "MARK7": "Z",
         "SUBJECT8": "Phy.Edn.",
-        "MARK8": "A",
+        "MARK8": "Z",
         "TOTAL": "210",
         "PERCENTAGE": "35.00",
         "REMARK": "Internal Marks Deke Paas Kiye Itni Baari Agli Baar Se Padh Ke Aao Paper Mein"
